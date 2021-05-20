@@ -1,0 +1,28 @@
+body {
+	background-color: #c1e1ec;
+	font-family: Montserrat Light;
+	text-align: center;
+	margin: 0px;
+}
+
+figure {
+	float: left;
+}
+
+.wrapper {
+width:700px;
+margin: 0px auto;
+}
+
+h1 {
+background-color: #e7e3d8;
+font-size: 50px;
+margin: 30px 0px 30px 0px;
+}
+
+p {
+	text-align: justify;
+}
+h2 {
+background-color: #e7e3d8;	
+}
